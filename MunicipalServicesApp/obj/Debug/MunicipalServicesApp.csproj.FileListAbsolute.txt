@@ -1,0 +1,10 @@
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\bin\Debug\MunicipalServicesApp.exe.config
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\bin\Debug\MunicipalServicesApp.exe
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\bin\Debug\MunicipalServicesApp.pdb
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\obj\Debug\MunicipalServicesApp.csproj.AssemblyReference.cache
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\obj\Debug\MunicipalServicesApp.MainMenuForm.resources
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\obj\Debug\MunicipalServicesApp.Properties.Resources.resources
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\obj\Debug\MunicipalServicesApp.csproj.GenerateResource.cache
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\obj\Debug\MunicipalServicesApp.csproj.CoreCompileInputs.cache
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\obj\Debug\MunicipalServicesApp.exe
+C:\Users\Shaldon\source\repos\MunicipalServicesApp\MunicipalServicesApp\obj\Debug\MunicipalServicesApp.pdb
